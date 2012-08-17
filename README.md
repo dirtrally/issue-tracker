@@ -7,4 +7,6 @@ Main goal of this tracker is to detect bugs and report them asap to Dirt Rally d
 
 To use this issue tracker, you will have to sign up at Github.com. It's very easy!
 
-All feature requests will be reviewed by the development team and will be either accepted or rejected! Unfortunately, it is not possible to implement all the wished features. We love saying, "less is more"!
+All feature requests will be reviewed by the development team and will be either accepted or rejected! Unfortunately, it is not possible to implement all the wished features. 
+
+We love to say: **"less is more."**
