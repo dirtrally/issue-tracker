@@ -11,6 +11,8 @@ All feature requests will be reviewed by the development team and will be either
 
 We love to say: **"less is more."**
 
+To add a new issue, click [here](/dirtrally/issue-tracker/issues)
+
 Rules
 =====
 
